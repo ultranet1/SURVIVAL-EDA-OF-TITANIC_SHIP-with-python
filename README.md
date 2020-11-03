@@ -1,6 +1,6 @@
 # SURVIVAL-ANALYSIS-OF-TITANIC_SHIP- 
 # EDA with Python
-There seems to be many EDA(exploratory data analysis) on the 'TITANIC SHIP' dataset, but none or few considered 'Embark_town' & 'deck'. So I am focusing on Embark_town & deck together with 'Age','Sex' &amp; 'Survival' using Python library.
+There seems to be many EDA(exploratory data analysis) on the 'TITANIC SHIP' dataset, but none or few considered 'Embark_town' & 'deck'. So I am focusing on Embark_town & deck together 'Survivals' using Python library.
 
 MY OBJECTIVES is;
 * To know if there's any relationship between deck & embark town.
