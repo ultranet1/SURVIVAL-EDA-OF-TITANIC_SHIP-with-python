@@ -17,6 +17,7 @@ LIBRARY;
 * Matplotlib
 * Seaborn
 * Sweetviz
+* Statsmodels
 
 NOTE;
 * Although I am tempted to use sweetviz Python library for auto profiling &amp; visualization,I will stick to numpy,panda &amp; matplotlib for now.
